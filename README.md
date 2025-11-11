@@ -39,3 +39,5 @@ Challenging projects give me energy and pure enjoyment. 🚀
 ### ⚡ Fun Fact
 > I believe creativity starts where comfort ends.  
 > That’s why I love solving problems through design and code. 💡
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex123&show_icons=true&theme=radical)
