@@ -42,8 +42,22 @@ Challenging projects give me energy and pure enjoyment. 🚀
 
 # Jahongir Salimov 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joha1771&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joha1771&layout=compact&theme=radical&hide_border=true)
+  <!-- Верхний ряд: GitHub Stats + Top Languages -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=alex123&show_icons=true&theme=radical&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex123&layout=compact&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joha1771&theme=radical&hide_border=true)
+  <!-- Нижний ряд по центру: GitHub Streak -->
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex123&theme=radical&hide_border=true" />
+
+</div>
