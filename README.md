@@ -28,7 +28,7 @@ Challenging projects give me energy and pure enjoyment. 🚀
 ---
 
 ### 📫 Contact Me
-- 📧 **Email:** yourmail@example.com  
+- 📧 **Email:** johasalimov1717@gmail.com
 - 💬 **Telegram:** [@Salimov_joha](https://t.me/t.me/dasturchibratweb)
 
 ---
