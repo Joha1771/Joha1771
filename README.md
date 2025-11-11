@@ -22,6 +22,9 @@ Challenging projects give me energy and pure enjoyment. 🚀
 ### 🌱 Currently Exploring
 - TypeScript  
 - Next.js  
+- JavaScript  
+- React  
+- Tailwind  
 - UI/UX design principles  
 - Web animations & performance optimization  
 
