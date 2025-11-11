@@ -40,4 +40,10 @@ Challenging projects give me energy and pure enjoyment. 🚀
 > I believe creativity starts where comfort ends.  
 > That’s why I love solving problems through design and code. 💡
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex123&show_icons=true&theme=radical)
+# Jahongir Salimov 👋
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joha1771&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joha1771&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joha1771&theme=radical&hide_border=true)
