@@ -40,8 +40,6 @@ Challenging projects give me energy and pure enjoyment. 🚀
 > I believe creativity starts where comfort ends.  
 > That’s why I love solving problems through design and code. 💡
 
-# Jahongir Salimov 👋
-
 <div align="center">
 
   <!-- Верхний ряд: GitHub Stats + Top Languages -->
